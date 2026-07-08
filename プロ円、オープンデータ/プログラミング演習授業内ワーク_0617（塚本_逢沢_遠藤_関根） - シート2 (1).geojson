@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3621,
+          33.969893
+        ]
+      },
+      "properties": {
+        "place": "おのじばしのまえ",
+        "date": "2026/06/16",
+        "animal": "ヤマカガシ",
+        "length": "30cmくらい",
+        "danger": "あんまり"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361988,
+          33.972792
+        ]
+      },
+      "properties": {
+        "place": "HOME\n出たところすぐ",
+        "date": "2026/06/02",
+        "animal": "アオダイショウ",
+        "length": "1mくらい",
+        "danger": "でかかった\nびっくりした"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361257,
+          33.971024
+        ]
+      },
+      "properties": {
+        "place": "鮎喰川コモン前の林道",
+        "date": "わからない",
+        "animal": "マムシ",
+        "length": "50cmくらい",
+        "danger": "そこそこ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.335413,
+          33.950721
+        ]
+      },
+      "properties": {
+        "place": "雨乞いの滝",
+        "date": "わからない",
+        "animal": "蛇",
+        "length": "30cmくらい",
+        "danger": "かんじなかった"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.373115,
+          34.005737
+        ]
+      },
+      "properties": {
+        "place": "私のズボンの中\n（右足）",
+        "date": "2026/06/12",
+        "animal": "クマバチ",
+        "length": "3cm",
+        "danger": "もちろん"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.363348,
+          33.972547
+        ]
+      },
+      "properties": {
+        "place": "下道",
+        "date": "2025/10/24",
+        "animal": "蛇",
+        "length": "30cmとか？",
+        "danger": "全く感じなかった"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.36271,
+          33.972995
+        ]
+      },
+      "properties": {
+        "place": "寮の厨房の裏の排水管の隙間",
+        "date": "2026/06/01",
+        "animal": "アオダイショウ",
+        "length": "70cm",
+        "danger": "活発ではなかったため、\n刺激しなければ危険はないと\n考えていた。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361202,
+          33.974773
+        ]
+      },
+      "properties": {
+        "place": "工場",
+        "date": "2026/06/10",
+        "animal": "黒猫",
+        "length": "車のタイヤと\n同じくらい",
+        "danger": "心拍停止の恐れが\nありました"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.346508,
+          33.966589
+        ]
+      },
+      "properties": {
+        "place": "33° 57' 59.6999\" N 134° 20' 47.2999\" E",
+        "date": "2026/06/15",
+        "animal": "キジ",
+        "length": "1m",
+        "danger": "感じなかった"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.36133,
+          33.973086
+        ]
+      },
+      "properties": {
+        "place": "",
+        "date": "2026/05/24",
+        "animal": "ヘビ",
+        "length": "60cm",
+        "danger": "すぐ逃げて\nいって感じなかった"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.355587,
+          33.969418
+        ]
+      },
+      "properties": {
+        "place": "あそこ、\nコンビニ行く時とかに\n通る下道みたいな、\nあそこ",
+        "date": "2026/06/02",
+        "animal": "蛇",
+        "length": "1mくらい",
+        "danger": "あんまり"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361935,
+          33.973684
+        ]
+      },
+      "properties": {
+        "place": "HOME近くの畑と道路",
+        "date": "2026/06/06",
+        "animal": "マムシと蜂",
+        "length": "一メートル？ぐらい？",
+        "danger": "気づかずに\n近づいてたら\n逃げた"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.376408,
+          33.979259
+        ]
+      },
+      "properties": {
+        "place": "神山を抜けて\n吉野川方面に行く道\n（松葉庵よりもっと奥）",
+        "date": "2026/05/02",
+        "animal": "たぬき",
+        "length": "50cmくらい？",
+        "danger": "身の危険、というより\nレンタカーを凹ませないか\nすごく心配だった"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361631,
+          33.975309
+        ]
+      },
+      "properties": {
+        "place": "SHIZQ LAB付近\n（神領西上角１−８付近）",
+        "date": "2026/06/17",
+        "animal": "鹿",
+        "length": "1m",
+        "danger": "そのまま車に突っ込んで\nこられたら危険だったが、\nそうではなかったので\n危険は感じなかった"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361831,
+          33.973835
+        ]
+      },
+      "properties": {
+        "place": "行き帰りの道の\n田んぼ横の側溝",
+        "date": "2025/11/15",
+        "animal": "ヤマカガシの赤ちゃん",
+        "length": "20cmくらい？",
+        "danger": "感じていない"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361598,
+          33.975746
+        ]
+      },
+      "properties": {
+        "place": "しか？",
+        "date": "2026/06/12",
+        "animal": "鹿",
+        "length": "1mくらい",
+        "danger": "感じてないけど、\nこっちが引きそうで\n危なかった"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361919,
+          33.973737
+        ]
+      },
+      "properties": {
+        "place": "HOME手前の畑の横",
+        "date": "2026/05/13",
+        "animal": "蛇",
+        "length": "30cm",
+        "danger": "動きが早く、\n同じ方向に移動していて\n怖かった"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.363002,
+          33.973038
+        ]
+      },
+      "properties": {
+        "place": "HOME 裏",
+        "date": "6/13",
+        "animal": "蛇",
+        "length": "?",
+        "danger": "感じた"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361552,
+          33.974477
+        ]
+      },
+      "properties": {
+        "place": "OFFICEに\n向かう途中",
+        "date": "6/10",
+        "animal": "蛇",
+        "length": "でかい蛇",
+        "danger": "感じた"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.360344,
+          33.973652
+        ]
+      },
+      "properties": {
+        "place": "教室棟の中",
+        "date": "2024/10/10",
+        "animal": "",
+        "length": "？",
+        "danger": "感じた"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.363306,
+          33.972634
+        ]
+      },
+      "properties": {
+        "place": "モバエコ/\n自転車のところ6番",
+        "date": "2024/7/7",
+        "animal": "蜂",
+        "length": "不明でかいらしい",
+        "danger": "感じた\n怖くて自転車の鍵\n抜けないらしい"
+      }
+    }
+  ]
+}
